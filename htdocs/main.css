@@ -1,0 +1,9 @@
+.no-user {
+  color:  #999 !important;
+}
+
+.index-link-block {
+  position: absolute;
+  padding: 3px 11px;
+  color: #999;
+}
